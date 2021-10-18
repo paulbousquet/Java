@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0bb03247-dfbc-4c31-a12a-b2f5cb41ebbe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1g0pg24BSlvPanukmFE6JDH7EYt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.Person201Solo">
+    <configuration name="Person201" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Person201" />
+      <module name="project0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Person201Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Person201Driver" />
+      <module name="project0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Person201Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Person201Scanner" />
+      <module name="project0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Person201Solo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Person201Solo" />
+      <module name="project0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Person201Solo" />
+        <item itemvalue="Application.Person201Scanner" />
+        <item itemvalue="Application.Person201Driver" />
+        <item itemvalue="Application.Person201" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bb03247-dfbc-4c31-a12a-b2f5cb41ebbe" name="Default Changelist" comment="" />
+      <created>1591546677334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591546677334</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="43" key="#Project_Structure" timestamp="1598035124181">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="208" y="43" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1598035124181" />
+    <state x="0" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598641021775">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="0" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1598641021775" />
+    <state width="1358" height="221" key="GridCell.Tab.0.bottom" timestamp="1598641041051">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1250" height="155" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1597419077301" />
+    <state width="1358" height="221" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1598641041051" />
+    <state width="1250" height="155" key="GridCell.Tab.0.bottom/3840.23.1440.877/0.23.3840.2057@0.23.3840.2057" timestamp="1597262222097" />
+    <state width="1358" height="221" key="GridCell.Tab.0.center" timestamp="1598641041048">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1250" height="155" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1597419077300" />
+    <state width="1358" height="221" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1598641041048" />
+    <state width="1250" height="155" key="GridCell.Tab.0.center/3840.23.1440.877/0.23.3840.2057@0.23.3840.2057" timestamp="1597262222095" />
+    <state width="1358" height="221" key="GridCell.Tab.0.left" timestamp="1598641041047">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1250" height="155" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1597419077300" />
+    <state width="1358" height="221" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1598641041047" />
+    <state width="1250" height="155" key="GridCell.Tab.0.left/3840.23.1440.877/0.23.3840.2057@0.23.3840.2057" timestamp="1597262222095" />
+    <state width="1358" height="221" key="GridCell.Tab.0.right" timestamp="1598641041049">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1250" height="155" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1597419077300" />
+    <state width="1358" height="221" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1598641041049" />
+    <state width="1250" height="155" key="GridCell.Tab.0.right/3840.23.1440.877/0.23.3840.2057@0.23.3840.2057" timestamp="1597262222096" />
+    <state x="155" y="60" key="SettingsEditor" timestamp="1597538411813">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="155" y="60" key="SettingsEditor/0.23.1440.812@0.23.1440.812" timestamp="1597538411813" />
+    <state x="0" y="145" key="new project wizard" timestamp="1598114269061">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="0" y="145" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1598114269061" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/P0$Person201Driver.ic" NAME="Person201Driver Coverage Results" MODIFIED="1598638433910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/P0$Person201.ic" NAME="Person201 Coverage Results" MODIFIED="1598637755034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
