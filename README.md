@@ -1,2 +1,1 @@
-# Developed in coordination with Owen Astrachan
-# More details soon 
+Developed in coordination with Owen Astrachan
